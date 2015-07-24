@@ -7,3 +7,9 @@ load("jslib/_io.js");
 load("jslib/chen/iqiyi_vedio_script.js");
 load("jslib/chen/youku_vedio_script.js");
 load("jslib/chen/bmob_http_client.js");
+
+load("jslib/48/N46ApoiImageLoader.js");
+load("jslib/48/N46BlogImageLoader.js");
+
+
+

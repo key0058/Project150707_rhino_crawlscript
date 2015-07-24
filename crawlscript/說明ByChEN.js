@@ -29,3 +29,11 @@ showYoukuAllVedios(2015, 2015, "tiyu", "http://www.youku.com/v_showlist/c98g0d1s
 如此类推
 
 #####################################################
+
+
+# 获取A-Pop里N46的图片。
+downloadApopImages(1, 726, "http://www.apopidols.org/group/nogizaka46/?&page={PAGE}");
+downloadBlogImages("http://blog.nogizaka46.com/?d=201111");
+downloadBlogImages("http://blog.nogizaka46.com/?d=201507");
+nogizaka46All();
+
